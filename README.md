@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello
+
+I am Ben Plessinger.  I am a programmer, system administrator, and regular person.
+
+I currently am a maintainer of [Open XDMoD](https://github.com/ubccr/xdmod) an open source tool to facilitate the management of high performance computing resources sponsored by the [NSF](https://nsf.gov/) under grant numbers [ACI 1025159](https://nsf.gov/awardsearch/showAward?AWD_ID=1025159) and [ACI 1445806](https://nsf.gov/awardsearch/showAward?AWD_ID=1445806)
+
+I dislike all programming languages equally, and try to use the right tool for the job (sometimes the right tool is the one that is already being used, even if it is not the best). I prefer consistency over debate for things that do not matter (tabs v. spaces, brace placement, etc...).
 
 <!--
 **plessbd/plessbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
